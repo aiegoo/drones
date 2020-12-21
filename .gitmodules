@@ -1,8 +1,6 @@
 [submodule "road_detection"]
 	path = road_detection
 	url = git@github.com:aiegoo/road_detection
-[submodule "Proj_road_detection-"]
+[submodule "jetbot-code"]
 	path = Proj_road_detection-
-	url = git@github.com:blackcoke/Proj_road_detection-
-[submodule "Submod"]
 	url = https://github.com/aiegoo/jetbot-code
