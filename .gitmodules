@@ -4,3 +4,15 @@
 [submodule "jetbot-code"]
 	path = Proj_road_detection-
 	url = https://github.com/aiegoo/jetbot-code
+[submodule "django-raspi"]
+	path = django-raspi
+	url = git@github.com:aiegoo/django-raspi
+[submodule "drones.wiki"]
+	path = drones.wiki
+	url = git@github.com:aiegoo/drones.wiki
+[submodule "_advanced_lane_"]
+	path = _advanced_lane_
+	url = git@github.com:aiegoo/_advanced_lane_
+[submodule "ud_behavioral_cloning"]
+	path = ud_behavioral_cloning
+	url = git@github.com:aiegoo/_behavioral_cloning
