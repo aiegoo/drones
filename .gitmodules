@@ -13,6 +13,3 @@
 [submodule "_advanced_lane_"]
 	path = _advanced_lane_
 	url = git@github.com:aiegoo/_advanced_lane_
-[submodule "ud_behavioral_cloning"]
-	path = ud_behavioral_cloning
-	url = git@github.com:aiegoo/_behavioral_cloning
