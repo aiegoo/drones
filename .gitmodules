@@ -13,3 +13,9 @@
 [submodule "_advanced_lane_"]
 	path = _advanced_lane_
 	url = git@github.com:aiegoo/_advanced_lane_
+[submodule "_behavioral_cloning_"]
+	path = _behavioral_cloning_
+	url = git@github.com:aiegoo/_behavioral_cloning_.git
+[submodule "drone_sample"]
+	path = drone_sample
+	url = git@github.com:aiegoo/drone_sample
