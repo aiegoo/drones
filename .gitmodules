@@ -19,3 +19,6 @@
 [submodule "drone_sample"]
 	path = drone_sample
 	url = git@github.com:aiegoo/drone_sample
+[submodule "jet-notebook"]
+	path = jet-notebook
+	url = git@github.com:aiegoo/jet-notebook
