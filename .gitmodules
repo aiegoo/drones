@@ -22,3 +22,15 @@
 [submodule "jet-notebook"]
 	path = jet-notebook
 	url = git@github.com:aiegoo/jet-notebook
+[submodule "deliverydrone"]
+	path = deliverydrone
+	url = git@github.com:allenye66/Deep-Learning-Autonomous-Drones.git
+[submodule "allthatido"]
+	path = allthatido
+	url = git@github.com:allthatido/drone_motion_planning
+[submodule "airvehicle-pr"]
+	path = airvehicle-pr
+	url = git@github.com:pyadmell/flying-car-udacity
+[submodule "kalman"]
+	path = kalman
+	url = git@github.com:guilyx/flyingcarudacity
