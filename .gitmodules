@@ -34,3 +34,6 @@
 [submodule "kalman"]
 	path = kalman
 	url = git@github.com:guilyx/flyingcarudacity
+[submodule "_kalman"]
+	path = _kalman
+	url = git@github.com:aiegoo/_kalman
