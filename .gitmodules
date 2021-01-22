@@ -37,3 +37,9 @@
 [submodule "_kalman"]
 	path = _kalman
 	url = git@github.com:aiegoo/_kalman
+[submodule "_mydrone"]
+	path = _mydrone
+	url = git@github.com:aiegoo/_mydrone
+[submodule "_deliverydrone"]
+	path = _deliverydrone
+	url = git@github.com:aiegoo/_deliverydrone
