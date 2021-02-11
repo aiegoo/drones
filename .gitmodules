@@ -43,3 +43,6 @@
 [submodule "_deliverydrone"]
 	path = _deliverydrone
 	url = git@github.com:aiegoo/_deliverydrone
+[submodule "px4-autopilot"]
+	path = px4-autopilot
+	url = https://root:BkTyEVaVGeMdaL3sPYse@eggs.or.kr/root/px4-autopilot
